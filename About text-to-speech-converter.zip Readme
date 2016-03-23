@@ -1,0 +1,8 @@
+text-to-speech-converter.zip
+
+This project is developed by me and my friend - "Naitik Patel".
+
+This project work as whatever we say. For example, we say open word then it will open MSWord. Sameas we say one plus two then it shows 1+2=3.
+
+We have used sphinx for recognize voice.
+
